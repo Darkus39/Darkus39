@@ -1,5 +1,5 @@
-- 👋 Hi, I’m aether_drive_785.
-- 👀 I’m interested in coding, programming.
-- 🌱 I’m expert in Python.
+- 👋 Hi, I’m Ivory_Tales
+- 👀 I’m interested in coding, programming, AI and automation.
+- 🌱 I’m expert in Python, Java. 
 - 📫 How to reach me ... Instagram/LinkedIn. 
 - 😄 Pronouns: ... He/Him.
