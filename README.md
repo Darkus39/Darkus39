@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding, programming, AI and automation.
 - 🌱 I’m expert in Python, Java. 
 - 📫 How to reach me ... Instagram/LinkedIn. 
-- 😄 Pronouns: ... He/Him.
+- 👨‍💻 Pronouns: ... He/Him.
