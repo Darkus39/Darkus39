@@ -95,7 +95,7 @@ class Ayanokouji:
 [▓▓▓▓▓▓▓░░░]  Automation Pipeline Engineering   70%
 [▓▓▓▓▓▓░░░░]  Data Science & ML                 60%
 [▓▓▓▓▓░░░░░]  Cybersecurity & Ethical Hacking   50%
-[▓▓▓▓░░░░░░]  Full Stack Development             40%
+[▓▓▓▓░░░░░░]  Full Stack Development            40%
 ```
 
 ---
