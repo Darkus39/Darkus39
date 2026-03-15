@@ -1,15 +1,10 @@
 <!-- Header -->
 <div align="center">
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║        DARKUS39  //  AYANOKOUJI                          ║
-║        AI Infrastructure · Systems · Security            ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Founder+%40+Spectre+Flow;AI+Infrastructure+Engineer;CSE+Undergrad+%7C+Year+2;Building+systems+that+work+while+I+sleep.)](https://git.io/typing-svg)
+# DARKUS39 // AYANOKOUJI
+### AI Infrastructure · Systems · Security
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Founder+%40+Spectre+Flow;AI+Infrastructure+Engineer;CS+Undergrad+%7C+Year+2;Building+systems+that+work+while+I+sleep.)](https://git.io/typing-svg)
 
 </div>
 
