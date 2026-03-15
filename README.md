@@ -15,7 +15,7 @@
 
 ---
 
-## `whoami`
+## `Who am I?`
 ```python
 class Ayanokouji:
     name        = "Darkus39"
