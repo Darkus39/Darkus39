@@ -8,7 +8,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=2000&color=FFFFFF&center=true&vCenter=true&width=650&lines=I+don%27t+put+in+efforts+because+my+goal+wants+it%3B;I+put+in+efforts+because+I+need+that+goal.;Knowing+about+me+and+knowing+me+are+two+different+facts)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=2000&color=FFFFFF&center=true&vCenter=true&width=650&lines=I+don%27t+put+in+efforts+because+my+goal+wants+it%3B;I+put+in+efforts+because+I+need+that+goal;Knowing+about+me+and+knowing+me+are+two+different+facts)](https://git.io/typing-svg)
 
 </div>
 
