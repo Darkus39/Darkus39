@@ -10,6 +10,10 @@
 
 ---
 
+'I don't put in efforts because my goal wants it, I put in efforts because I need that goal'
+
+'Knowing about me, and knowing me are two different facts.'
+
 ## `Who am I?`
 ```python
 class Ayanokouji:
