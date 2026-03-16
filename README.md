@@ -6,13 +6,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Founder+%40+Spectre+Flow;AI+Infrastructure+Engineer;CS+Undergrad+%7C+Year+2;Building+systems+that+work+while+I+sleep.)](https://git.io/typing-svg)
 
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=2000&color=FFFFFF&center=true&vCenter=true&width=650&lines=I+don%27t+put+in+efforts+because+my+goal+wants+it%3B;I+put+in+efforts+because+I+need+that+goal.;Knowing+about+me%2C+and+knowing+me+are+two+different+facts.)](https://git.io/typing-svg)
+
 </div>
 
 ---
-
--    I don't put in efforts because my goal wants it, I put in efforts because I need that goal
-
--    Knowing about me, and knowing me are two different facts
 
 ## `Who am I?`
 ```python
