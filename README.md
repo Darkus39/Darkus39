@@ -1,8 +1,12 @@
+<div align="center">
+
 # DARKUS39 // AYANOKOUJI
 
 ### AI Infrastructure · Automation · Systems · Security
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Founder+%40+Spectre+Flow;AI+Infrastructure+Engineer;CS+Undergrad+%7C+Year+2;Building+systems+that+work+while+I+sleep.)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -124,9 +128,13 @@ class Ayanokouji:
 
 ## `./stats`
 
+<div align="center">
+
 [![Darkus39's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darkus39&show_icons=true&theme=transparent&hide_border=true&title_color=00C8FF&icon_color=00C8FF&text_color=aab8d0&bg_color=050810)](https://github.com/Darkus39)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkus39&layout=compact&theme=transparent&hide_border=true&title_color=00C8FF&text_color=aab8d0&bg_color=050810)](https://github.com/Darkus39)
+
+</div>
 
 ---
 
@@ -136,6 +144,8 @@ class Ayanokouji:
 If you're building something that needs to run on its own —
 get in touch. That's exactly what we build.
 ```
+
+<div align="center">
 
 [![Instagram](https://img.shields.io/badge/DM_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/spectreflow.ai)
 [![Website](https://img.shields.io/badge/Spectre_Flow-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://spectre-flow-website.vercel.app)
@@ -149,3 +159,5 @@ Systems don't sleep. Neither does the work.
 ```
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Darkus39&color=00C8FF&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Darkus39)
+
+</div>
