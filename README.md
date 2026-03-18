@@ -1,21 +1,14 @@
-<!-- Header -->
-<div align="center">
-
 # DARKUS39 // AYANOKOUJI
-### AI Infrastructure · Systems · Security
+
+### AI Infrastructure · Automation · Systems · Security
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Founder+%40+Spectre+Flow;AI+Infrastructure+Engineer;CS+Undergrad+%7C+Year+2;Building+systems+that+work+while+I+sleep.)](https://git.io/typing-svg)
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=2000&color=FFFFFF&center=true&vCenter=true&width=650&lines=I+don%27t+put+in+efforts+because+my+goal+wants+it%3B;I+put+in+efforts+because+I+need+that+goal;Knowing+about+me+and+knowing+me+are+two+different+facts)](https://git.io/typing-svg)
-
-</div>
 
 ---
 
 ## `Who am I?`
-```python
+
+```
 class Ayanokouji:
     name        = "Darkus39"
     alias       = "Ayanokouji"
@@ -31,19 +24,47 @@ class Ayanokouji:
 ## `./spectre_flow`
 
 > **Spectre Flow** is my AI infrastructure agency. We don't build workflows — we build autonomous systems that think, qualify, respond, and operate while you sleep.
+
 ```
-┌─────────────────────────────────────────────────────────┐
-│  SPECTRE FLOW ENGINE — Current Systems                  │
-├─────────────────────────────────────────────────────────┤
-│  ⚡  Lead Intelligence Engine   →  Live                 │
-│  🤖  24/7 AI Booking Agent      →  Live                 │
-│  🗄️  Self-Hosted CRM (NocoDB)   →  Live                 │
-│  🔗  End-to-End Pipeline        →  In Development       │
-└─────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────┐
+│  SPECTRE FLOW ENGINE — Active Systems                           │
+├─────────────────────────────────────────────────────────────────┤
+│  ⚡  Lead Intelligence Engine          →  Live                  │
+│  🤖  24/7 AI Booking Agent             →  Live                  │
+│  🗄️  Self-Hosted CRM (NocoDB)          →  Live                  │
+│  🔍  LinkedIn Lead Scraping & Enrich   →  Live                  │
+│  🎙️  AI Meeting Intelligence Agent     →  Live                  │
+│  📄  Document Intelligence Manager    →  Live                  │
+│  🧠  RAG Knowledge Bot                 →  Live                  │
+│  🔗  End-to-End Automation Pipelines   →  Live                  │
+│  📊  AI Notification & Lead Routing    →  Live                  │
+│  ⚙️  20+ n8n Workflows                 →  Browse on GitHub      │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 [![Website](https://img.shields.io/badge/spectreflow.ai-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://spectre-flow-website.vercel.app)
 [![Instagram](https://img.shields.io/badge/@spectreflow.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/spectreflow.ai)
+[![Book a Call](https://img.shields.io/badge/Book_a_Free_Call-00C8FF?style=for-the-badge&logo=googleforms&logoColor=black)](https://forms.gle/cck7MXYo4DW2qLBi6)
+
+---
+
+## `./workflow_library`
+
+> A growing catalogue of production-ready n8n workflows available for deployment. Every workflow is battle-tested, structured for real business operations, and ready to plug into your stack.
+
+| # | Workflow | What It Does | Stack |
+|---|----------|-------------|-------|
+| 01 | 🧠 [Lead Intelligence Engine](https://github.com/Darkus39/lead-intelligence-engine) | Scores & qualifies inbound leads with AI, routes to CRM | n8n · Gemini · NocoDB |
+| 02 | 🤖 [AI Booking Agent](https://github.com/Darkus39/AI-booking-agent) | 24/7 autonomous meeting scheduling via natural language | n8n · Google Calendar · Gmail |
+| 03 | 📢 [AI Notification Hub](https://github.com/Darkus39/AI-notification-hub) | Lead routing, AI summaries, Discord & SMS alerts | n8n · Gemini · Twilio |
+| 04 | 📄 [Document Intelligence Manager](https://github.com/Darkus39/Document-intelligence-manager) | WhatsApp doc analysis, calendar events, Slack alerts | n8n · Gemini · WhatsApp |
+| 05 | 🧬 [RAG Knowledge Bot](https://github.com/Darkus39/Rag-knowledge-bot) | Q&A from custom knowledge base via WhatsApp | n8n · Pinecone · Gemini |
+| 06 | 🔍 [LinkedIn Lead Scraping & Enrichment](https://github.com/Darkus39/spectre-flow-workflows) | Scrapes LinkedIn, enriches with Apollo.io emails, AI-summarizes | n8n · Apollo.io · Google Sheets |
+| 07 | 🎙️ [AI Meeting Intelligence Agent](https://github.com/Darkus39/spectre-flow-workflows) | Pulls Meet transcripts, extracts actions, auto-schedules follow-ups | n8n · OpenAI · Google Calendar |
+| 08 | 📣 [Facebook Page Comment Monitor](https://github.com/Darkus39/spectre-flow-workflows) | Pulls all post comments, filters & structures data for analysis | n8n · Facebook Graph API |
+| 09 | ⛓️ [LLM Chaining Engine](https://github.com/Darkus39/spectre-flow-workflows) | Multi-step AI pipeline with memory, parallel & sequential chains | n8n · Anthropic · Webhook |
+
+> 📦 **More workflows in [spectre-flow-workflows](https://github.com/Darkus39/spectre-flow-workflows)** — browse the full library and request any system for deployment.
 
 ---
 
@@ -56,6 +77,7 @@ class Ayanokouji:
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=flat-square&logoColor=white)
 
 **Development**
 
@@ -65,14 +87,13 @@ class Ayanokouji:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
 **Data Science**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 **Infrastructure & Security**
 
@@ -80,17 +101,17 @@ class Ayanokouji:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 **Databases**
 
 ![NocoDB](https://img.shields.io/badge/NocoDB-02C083?style=flat-square&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
 
 ---
 
 ## `./current_focus`
+
 ```
 [▓▓▓▓▓▓▓▓▓░]  AI Infrastructure Development     90%
 [▓▓▓▓▓▓▓░░░]  Automation Pipeline Engineering   70%
@@ -101,29 +122,16 @@ class Ayanokouji:
 
 ---
 
-## `./pinned`
-
-| Repo | Description | Stack |
-|------|-------------|-------|
-| 🧠 `lead-intelligence-engine` | AI-powered lead scoring & analysis system | n8n · LLM · NocoDB |
-| 🤖 `ai-booking-agent` | 24/7 conversational booking automation | n8n · Gemini · Google Calendar |
-| 🌐 `spectreflow-website` | Agency website — live on Vercel | HTML · CSS · JS |
-
----
-
 ## `./stats`
 
-<div align="center">
+[![Darkus39's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darkus39&show_icons=true&theme=transparent&hide_border=true&title_color=00C8FF&icon_color=00C8FF&text_color=aab8d0&bg_color=050810)](https://github.com/Darkus39)
 
-![Darkus39's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darkus39&show_icons=true&theme=transparent&hide_border=true&title_color=00C8FF&icon_color=00C8FF&text_color=aab8d0&bg_color=050810)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkus39&layout=compact&theme=transparent&hide_border=true&title_color=00C8FF&text_color=aab8d0&bg_color=050810)
-
-</div>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkus39&layout=compact&theme=transparent&hide_border=true&title_color=00C8FF&text_color=aab8d0&bg_color=050810)](https://github.com/Darkus39)
 
 ---
 
 ## `./connect`
+
 ```
 If you're building something that needs to run on its own —
 get in touch. That's exactly what we build.
@@ -131,15 +139,13 @@ get in touch. That's exactly what we build.
 
 [![Instagram](https://img.shields.io/badge/DM_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/spectreflow.ai)
 [![Website](https://img.shields.io/badge/Spectre_Flow-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://spectre-flow-website.vercel.app)
+[![Book a Call](https://img.shields.io/badge/Book_Free_Discovery_Call-00E5C8?style=for-the-badge&logo=googleforms&logoColor=black)](https://forms.gle/cck7MXYo4DW2qLBi6)
 
 ---
 
-<div align="center">
 ```
 Systems don't sleep. Neither does the work.
 — Spectre Flow Engine
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=Darkus39&color=00C8FF&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
+[![Profile Views](https://komarev.com/ghpvc/?username=Darkus39&color=00C8FF&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Darkus39)
