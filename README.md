@@ -48,7 +48,7 @@ class Ayanokouji:
 
 [![Website](https://img.shields.io/badge/spectreflow.ai-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://spectre-flow-website.vercel.app)
 [![Instagram](https://img.shields.io/badge/@spectreflow.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/spectreflow.ai)
-[![Book a Call](https://img.shields.io/badge/Book_a_Free_Call-00C8FF?style=for-the-badge&logo=googleforms&logoColor=black)](https://forms.gle/cck7MXYo4DW2qLBi6)
+[![Book a Call](https://img.shields.io/badge/Book_a_Free_Call-00C8FF?style=for-the-badge&logo=googlecalendar&logoColor=black)](https://cal.com/ayanokouji-j98vjt)
 
 ---
 
@@ -147,9 +147,10 @@ get in touch. That's exactly what we build.
 
 <div align="center">
 
+[![Book a Call](https://img.shields.io/badge/Book_a_Free_Call-00C8FF?style=for-the-badge&logo=googlecalendar&logoColor=black)](https://cal.com/ayanokouji-j98vjt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-alif-hossain-nayem-0353a5358)
 [![Instagram](https://img.shields.io/badge/DM_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/spectreflow.ai)
 [![Website](https://img.shields.io/badge/Spectre_Flow-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://spectre-flow-website.vercel.app)
-[![Book a Call](https://img.shields.io/badge/Book_Free_Discovery_Call-00E5C8?style=for-the-badge&logo=googleforms&logoColor=black)](https://forms.gle/cck7MXYo4DW2qLBi6)
 
 ---
 
