@@ -13,7 +13,8 @@
 ## `Who am I?`
 
 ```
-class Ayanokouji:
+class Architect:
+
     name       = "Ayanokouji"
     role        = ["Founder @ Spectre Flow", "CS Undergrad (Year 2)", "AI Systems Engineer"]
     focus       = ["AI Infrastructure", "Automation", "Data Science", "Cybersecurity"]
