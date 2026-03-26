@@ -15,12 +15,12 @@
 ```
 class Architect:
 
-    name        = Ayanokouji
-    role        = Founder @ Spectre Flow | CS Undergrad (Year 2) | AI Systems Engineer
-    focus       = AI Infrastructure | Automation | Data Science | Cybersecurity
-    building    = Systems that operate autonomously - no babysitting required.
-    philosophy  = Don't automate tasks. Build infrastructure.
-    status      = Accepting clients → spectreflow.ai
+    name        => Ayanokouji
+    role        => Founder @ Spectre Flow | CS Undergrad (Year 2) | AI Systems Engineer
+    focus       => AI Infrastructure | Automation | Data Science | Cybersecurity
+    building    => Systems that operate autonomously - no babysitting required.
+    philosophy  => Don't automate tasks. Build infrastructure.
+    status      => Accepting clients → spectreflow.ai
 ```
 
 ---
