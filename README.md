@@ -14,8 +14,7 @@
 
 ```
 class Ayanokouji:
-    name        = "Darkus39"
-    alias       = "Ayanokouji"
+    name       = "Ayanokouji"
     role        = ["Founder @ Spectre Flow", "CS Undergrad (Year 2)", "AI Systems Engineer"]
     focus       = ["AI Infrastructure", "Automation", "Data Science", "Cybersecurity"]
     building    = "Systems that operate autonomously — no babysitting required."
