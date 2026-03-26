@@ -1,6 +1,6 @@
 <div align="center">
 
-# DARKUS39 // AYANOKOUJI
+# AYANOKOUJI
 
 ### AI Infrastructure · Automation · Systems · Security
 
