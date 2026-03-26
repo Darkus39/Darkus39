@@ -38,7 +38,7 @@ class Architect:
 │  🗄️  Self-Hosted CRM (NocoDB)          →  Live                  │
 │  🔍  LinkedIn Lead Scraping & Enrich   →  Live                  │
 │  🎙️  AI Meeting Intelligence Agent     →  Live                  │
-│  📄  Document Intelligence Manager    →  Live                   │
+│  📄  Document Intelligence Manager     →  Live                  │
 │  🧠  RAG Knowledge Bot                 →  Live                  │
 │  🔗  End-to-End Automation Pipelines   →  Live                  │
 │  📊  AI Notification & Lead Routing    →  Live                  │
