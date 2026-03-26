@@ -141,8 +141,8 @@ class Architect:
 ## `./connect`
 
 ```
-**If you're building something that needs to run on its own —**
-**get in touch. That's exactly what we build.**
+If you're building something that needs to run on its own —
+get in touch. That's exactly what we build.**
 ```
 
 <div align="center">
