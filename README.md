@@ -130,8 +130,6 @@ class Architect:
 
 <div align="center">
 
-[![Darkus39's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darkus39&show_icons=true&theme=transparent&hide_border=true&title_color=00C8FF&icon_color=00C8FF&text_color=aab8d0&bg_color=050810)](https://github.com/Darkus39)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkus39&layout=compact&theme=transparent&hide_border=true&title_color=00C8FF&text_color=aab8d0&bg_color=050810)](https://github.com/Darkus39)
 
 </div>
