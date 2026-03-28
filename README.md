@@ -30,20 +30,18 @@ class Architect:
 > **Spectre Flow** is my AI infrastructure agency. We don't build workflows — we build autonomous systems that think, qualify, respond, and operate while you sleep.
 
 ```
-## 🛠️ SPECTRE FLOW ENGINE — Active Systems
-
-| # | System | Description | Status |
-|:-:|:---|:---|:---:|
-| 01 | ⚡ **Lead Intelligence Engine** | Advanced lead scoring and qualification | 🟢 Live |
-| 02 | 🤖 **24/7 AI Booking Agent** | Automated scheduling and appointment setting | 🟢 Live |
-| 03 | 🗄️ **Self-Hosted CRM (NocoDB)** | Private, scalable database management | 🟢 Live |
-| 04 | 🔍 **LinkedIn Lead Scraping & Enrichment** | Automated prospecting and data enrichment | 🟢 Live |
-| 05 | 🎙️ **AI Meeting Intelligence Agent** | Real-time transcription and action items | 🟢 Live |
-| 06 | 📄 **Document Intelligence Manager** | Automated parsing and filing of documents | 🟢 Live |
-| 07 | 🧠 **RAG Knowledge Bot** | Context-aware AI using your specific data | 🟢 Live |
-| 08 | 🔗 **End-to-End Automation Pipelines** | Seamless data flow across all systems | 🟢 Live |
-| 09 | 📊 **AI Notification & Lead Routing** | Instant alerts and intelligent routing | 🟢 Live |
-| 10 | ⚙️ **20+ n8n Workflows** | [Browse on GitHub](https://github.com/YOUR_USERNAME) | 🟢 Live |
+|              System                    | Status   |          Description                                 |
+|:---------------------------------------|:--------:|:-----------------------------------------------------|
+| ⚡ Lead Intelligence Engine            | 🟢 Live | Advanced lead scoring and qualification              |
+| 🤖 24/7 AI Booking Agent               | 🟢 Live | Automated scheduling and appointment setting         |
+| 🗄️ Self-Hosted CRM (NocoDB)            | 🟢 Live | Private, scalable database management                |
+| 🔍 LinkedIn Lead Scraping & Enrichment | 🟢 Live | Automated prospecting and data enrichment            |
+| 🧠 AI Meeting Intelligence Agent       | 🟢 Live | Real-time transcription and action items             |
+| 📄 Document Intelligence Manager       | 🟢 Live | Automated parsing and filing of documents            |
+| 📚 RAG Knowledge Bot                   | 🟢 Live | Context-aware AI using your specific data            |
+| 🔗 End-to-End Automation Pipelines     | 🟢 Live | Seamless data flow across all systems                |
+| 📊 AI Notification & Lead Routing      | 🟢 Live | Instant alerts and intelligent routing               |
+| ⚙️ 20+ n8n Workflows                   | 🟢 Live | [Browse on GitHub](https://github.com/YOUR_USERNAME) |
 
 ```
 
