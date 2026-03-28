@@ -30,20 +30,20 @@ class Architect:
 > **Spectre Flow** is my AI infrastructure agency. We don't build workflows — we build autonomous systems that think, qualify, respond, and operate while you sleep.
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  SPECTRE FLOW ENGINE — Active Systems                           │
-├─────────────────────────────────────────────────────────────────┤
-│  ⚡  Lead Intelligence Engine          →  Live                  │
-│  🤖  24/7 AI Booking Agent             →  Live                  │
-│  🗄️  Self-Hosted CRM (NocoDB)          →  Live                  │
-│  🔍  LinkedIn Lead Scraping & Enrich   →  Live                  │
-│  🎙️  AI Meeting Intelligence Agent     →  Live                  │
-│  📄  Document Intelligence Manager     →  Live                  │
-│  🧠  RAG Knowledge Bot                 →  Live                  │
-│  🔗  End-to-End Automation Pipelines   →  Live                  │
-│  📊  AI Notification & Lead Routing    →  Live                  │
-│  ⚙️  20+ n8n Workflows                 →  Browse on GitHub      │
-└─────────────────────────────────────────────────────────────────┘
+## 🛠️ SPECTRE FLOW ENGINE — Active Systems
+
+| System | Status | Description |
+| :--- | :---: | :--- |
+| ⚡ **Lead Intelligence Engine** | 🟢 Live | Advanced lead scoring and qualification. |
+| 🤖 **24/7 AI Booking Agent** | 🟢 Live | Automated scheduling and appointment setting. |
+| 🗄️ **Self-Hosted CRM (NocoDB)** | 🟢 Live | Private, scalable database management. |
+| 🔍 **LinkedIn Lead Scraping & Enrich** | 🟢 Live | Automated prospecting and data enrichment. |
+| 🎙️ **AI Meeting Intelligence Agent** | 🟢 Live | Real-time transcription and action-item extraction. |
+| 📄 **Document Intelligence Manager** | 🟢 Live | Automated parsing and filing of documents. |
+| 🧠 **RAG Knowledge Bot** | 🟢 Live | Context-aware AI using your specific data. |
+| 🔗 **End-to-End Automation Pipelines** | 🟢 Live | Seamless data flow across all platforms. |
+| 📊 **AI Notification & Lead Routing** | 🟢 Live | Instant alerts and intelligent lead assignment. |
+| ⚙️ **20+ n8n Workflows** | [**Browse on GitHub**](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME) | Pre-built automation blueprints. |
 ```
 
 [![Website](https://img.shields.io/badge/spectreflow.ai-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://spectre-flow-website.vercel.app)
