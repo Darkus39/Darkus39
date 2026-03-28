@@ -32,15 +32,15 @@ class Architect:
 ```
 |              System                    | Status   |          Description                                 |
 |:---------------------------------------|:--------:|:-----------------------------------------------------|
-| ⚡ Lead Intelligence Engine            | 🟢 Live | Advanced lead scoring and qualification              |
-| 🤖 24/7 AI Booking Agent               | 🟢 Live | Automated scheduling and appointment setting         |
-| 🗄️ Self-Hosted CRM (NocoDB)            | 🟢 Live | Private, scalable database management                |
-| 🔍 LinkedIn Lead Scraping & Enrichment | 🟢 Live | Automated prospecting and data enrichment            |
-| 🧠 AI Meeting Intelligence Agent       | 🟢 Live | Real-time transcription and action items             |
-| 📄 Document Intelligence Manager       | 🟢 Live | Automated parsing and filing of documents            |
-| 📚 RAG Knowledge Bot                   | 🟢 Live | Context-aware AI using your specific data            |
-| 🔗 End-to-End Automation Pipelines     | 🟢 Live | Seamless data flow across all systems                |
-| 📊 AI Notification & Lead Routing      | 🟢 Live | Instant alerts and intelligent routing               |
+| ⚡ Lead Intelligence Engine            | 🟢 Live | Advanced lead scoring and qualification               |
+| 🤖 24/7 AI Booking Agent               | 🟢 Live | Automated scheduling and appointment setting          |
+| 🗄️ Self-Hosted CRM (NocoDB)            | 🟢 Live | Private, scalable database management                 |
+| 🔍 LinkedIn Lead Scraping & Enrichment | 🟢 Live | Automated prospecting and data enrichment             |
+| 🧠 AI Meeting Intelligence Agent       | 🟢 Live | Real-time transcription and action items              |
+| 📄 Document Intelligence Manager       | 🟢 Live | Automated parsing and filing of documents             |
+| 📚 RAG Knowledge Bot                   | 🟢 Live | Context-aware AI using your specific data             |
+| 🔗 End-to-End Automation Pipelines     | 🟢 Live | Seamless data flow across all systems                 |
+| 📊 AI Notification & Lead Routing      | 🟢 Live | Instant alerts and intelligent routing                |
 
 ```
 
