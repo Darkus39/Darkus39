@@ -41,7 +41,6 @@ class Architect:
 | 📚 RAG Knowledge Bot                   | 🟢 Live | Context-aware AI using your specific data            |
 | 🔗 End-to-End Automation Pipelines     | 🟢 Live | Seamless data flow across all systems                |
 | 📊 AI Notification & Lead Routing      | 🟢 Live | Instant alerts and intelligent routing               |
-| ⚙️ 20+ n8n Workflows                   | 🟢 Live | [Browse on GitHub](https://github.com/YOUR_USERNAME) |
 
 ```
 
