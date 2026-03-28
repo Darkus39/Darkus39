@@ -29,7 +29,7 @@ class Architect:
 
 > **Spectre Flow** is my AI infrastructure agency. We don't build workflows — we build autonomous systems that think, qualify, respond, and operate while you sleep.
 
-```
+
 |              System                    | Status   |          Description                                 |
 |:---------------------------------------|:--------:|:-----------------------------------------------------|
 | ⚡ Lead Intelligence Engine            | 🟢 Live  | Advanced lead scoring and qualification              |
@@ -42,7 +42,7 @@ class Architect:
 | 🔗 End-to-End Automation Pipelines     | 🟢 Live  | Seamless data flow across all systems                |
 | 📊 AI Notification & Lead Routing      | 🟢 Live  | Instant alerts and intelligent routing               |
 
-```
+
 
 [![Website](https://img.shields.io/badge/spectreflow.ai-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://spectre-flow-website.vercel.app)
 [![Instagram](https://img.shields.io/badge/@spectreflow.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/spectreflow.ai)
