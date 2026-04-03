@@ -114,15 +114,13 @@ class Architect:
 
 ## `./current_focus`
 
-
-|------------|---------------------------------|-----|
-|[▓▓▓▓▓▓▓▓▓░]| AI Infrastructure Development   | 90% |
-|[▓▓▓▓▓▓▓░░░]| Cybersecurity & Ethical Hacking | 70% |
-|[▓▓▓▓▓▓░░░░]| Automation Pipeline Engineering | 60% |
-|[▓▓▓▓▓░░░░░]| Data Science & ML               | 50% |
-|[▓▓▓▓░░░░░░]| Full Stack Development          | 40% |
-
-
+| # | Area | Progress |
+|---|------|----------|
+| 01 | AI Infrastructure Development | `█████████░ `  90% |
+| 02 | Cybersecurity & Ethical Hacking | `███████░░░ `  70% |
+| 03 | Automation Pipeline Engineering | `██████░░░░ `  60% |
+| 04 | Data Science & ML | `█████░░░░░ `  50% |
+| 05 | Full Stack Development | `████░░░░░░ `  40% |
 
 ---
 
