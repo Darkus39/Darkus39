@@ -72,7 +72,6 @@ class Architect:
 | 08 | 📣 [Facebook Comment Monitor](https://github.com/Darkus39/spectre-flow-workflows) | Pulls all post comments, filters & structures for analysis | n8n · Facebook Graph API |
 | 09 | ⛓️ [LLM Chaining Engine](https://github.com/Darkus39/spectre-flow-workflows) | Multi-step AI pipeline with memory, parallel & sequential chains | n8n · Anthropic · Webhook |
 
-> 📦 More in [spectre-flow-workflows](https://github.com/Darkus39/spectre-flow-workflows) — browse the full library and request any system.
 
 ---
 
