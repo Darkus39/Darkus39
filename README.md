@@ -114,13 +114,50 @@ class Architect:
 
 ## `./current_focus`
 
-| # | Area | Progress |
-|---|------|----------|
-| 01 | AI Infrastructure Development | `█████████░` 90% |
-| 02 | Cybersecurity & Ethical Hacking | `███████░░░` 70% |
-| 03 | Automation Pipeline Engineering | `██████░░░░` 60% |
-| 04 | Data Science & ML | `█████░░░░░` 50% |
-| 05 | Full Stack Development | `████░░░░░░` 40% |
+## `./current_focus`
+
+<svg width="100%" viewBox="0 0 680 310" role="img" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00c8ff"/>
+      <stop offset="100%" stop-color="#0066cc"/>
+    </linearGradient>
+  </defs>
+
+  <text x="20" y="32" font-family="monospace" font-size="11" fill="#888">01</text>
+  <text x="50" y="32" font-family="monospace" font-size="12" fill="#cdd" font-weight="600">AI Infrastructure Development</text>
+  <text x="644" y="32" font-family="monospace" font-size="11" fill="#00c8ff" text-anchor="end">90%</text>
+  <rect x="20" y="40" width="640" height="6" rx="3" fill="#1a2a3a"/>
+  <rect x="20" y="40" width="576" height="6" rx="3" fill="url(#g1)"/>
+
+  <text x="20" y="84" font-family="monospace" font-size="11" fill="#888">02</text>
+  <text x="50" y="84" font-family="monospace" font-size="12" fill="#cdd" font-weight="600">Cybersecurity &amp; Ethical Hacking</text>
+  <text x="644" y="84" font-family="monospace" font-size="11" fill="#00c8ff" text-anchor="end">70%</text>
+  <rect x="20" y="92" width="640" height="6" rx="3" fill="#1a2a3a"/>
+  <rect x="20" y="92" width="448" height="6" rx="3" fill="url(#g1)"/>
+
+  <text x="20" y="136" font-family="monospace" font-size="11" fill="#888">03</text>
+  <text x="50" y="136" font-family="monospace" font-size="12" fill="#cdd" font-weight="600">Automation Pipeline Engineering</text>
+  <text x="644" y="136" font-family="monospace" font-size="11" fill="#00c8ff" text-anchor="end">60%</text>
+  <rect x="20" y="144" width="640" height="6" rx="3" fill="#1a2a3a"/>
+  <rect x="20" y="144" width="384" height="6" rx="3" fill="url(#g1)"/>
+
+  <text x="20" y="188" font-family="monospace" font-size="11" fill="#888">04</text>
+  <text x="50" y="188" font-family="monospace" font-size="12" fill="#cdd" font-weight="600">Data Science &amp; ML</text>
+  <text x="644" y="188" font-family="monospace" font-size="11" fill="#00c8ff" text-anchor="end">50%</text>
+  <rect x="20" y="196" width="640" height="6" rx="3" fill="#1a2a3a"/>
+  <rect x="20" y="196" width="320" height="6" rx="3" fill="url(#g1)"/>
+
+  <text x="20" y="240" font-family="monospace" font-size="11" fill="#888">05</text>
+  <text x="50" y="240" font-family="monospace" font-size="12" fill="#cdd" font-weight="600">Full Stack Development</text>
+  <text x="644" y="240" font-family="monospace" font-size="11" fill="#00c8ff" text-anchor="end">40%</text>
+  <rect x="20" y="248" width="640" height="6" rx="3" fill="#1a2a3a"/>
+  <rect x="20" y="248" width="256" height="6" rx="3" fill="url(#g1)"/>
+
+</svg>
+
+---
 
 ---
 
