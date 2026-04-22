@@ -5,7 +5,7 @@
 
 <br/>
 
-# DARKUS39 // AYANOKOUJI
+# AYANOKOUJI
 
 ### AI Infrastructure · Systems · Security
 
