@@ -129,12 +129,11 @@ $ htop --skills
 ```
   PID   SKILL                              USAGE
   ───   ─────────────────────────────────  ──────────────────────────────
-
-  01    Cybersecurity & Ethical Hacking    ██████████████████░░  90%
-  02    AI Infrastructure & Agents         ████████████████░░░░  80%
-  03    Automation Pipeline Engineering    ██████████████░░░░░░  70%
-  04    Data Science & ML                  ██████████░░░░░░░░░░  50%
-  05    Full Stack Development             ████████░░░░░░░░░░░░  40%
+ 01    Cybersecurity & Ethical Hacking   [██████████████████  ] 90%
+ 02    AI Infrastructure & Agents        [████████████████    ] 80%
+ 03    Automation Pipeline Engineering   [██████████████      ] 70%
+ 04    Data Science & ML                 [██████████          ] 50%
+ 05    Full Stack Development            [████████            ] 40%
 ```
 
 ---
