@@ -168,7 +168,7 @@ $ ./connect.sh
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alifnayem-spectreflow)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/spectreflow.ai)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayanokouji_785)
 [![Spectre Flow](https://img.shields.io/badge/spectreflow.ai-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://spectre-flow.vercel.app)
 [![Book a Call](https://img.shields.io/badge/Book_Free_Call-0d1117?style=for-the-badge&logo=googlecalendar&logoColor=00C8FF)](https://cal.com/ayanokouji-j98vjt)
 
