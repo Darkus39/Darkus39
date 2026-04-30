@@ -5,12 +5,12 @@
 <br/>
 
 ```
-       █████╗ ██╗   ██╗ █████╗ ███╗   ██╗ ██████╗ ██╗  ██╗ ██████╗ ██╗   ██╗     ██╗██╗
-       ██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║██╔═══██╗██║ ██╔╝██╔═══██╗██║   ██║     ██║██║
-       ███████║ ╚████╔╝ ███████║██╔██╗ ██║██║   ██║█████╔╝ ██║   ██║██║   ██║     ██║██║
-       ██╔══██║  ╚██╔╝  ██╔══██║██║╚██╗██║██║   ██║██╔═██╗ ██║   ██║██║   ██║██   ██║██║
-       ██║  ██║   ██║   ██║  ██║██║ ╚████║╚██████╔╝██║  ██╗╚██████╔╝╚██████╔╝╚█████╔╝██║
-       ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚════╝ ╚═╝
+ █████╗        ███╗   ██╗ █████╗ ██╗   ██╗███████╗███╗   ███╗
+██╔══██╗       ████╗  ██║██╔══██╗╚██╗ ██╔╝██╔════╝████╗ ████║
+███████║       ██╔██╗ ██║███████║ ╚████╔╝ █████╗  ██╔████╔██║
+██╔══██║       ██║╚██╗██║██╔══██║  ╚██╔╝  ██╔══╝  ██║╚██╔╝██║
+██║  ██║██╗    ██║ ╚████║██║  ██║   ██║   ███████╗██║ ╚═╝ ██║
+╚═╝  ╚═╝╚═╝    ╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝     ╚═╝
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&pause=1200&color=00C8FF&center=true&vCenter=true&width=700&lines=Cybersecurity+%2F%2F+AI+Infrastructure+%2F%2F+Automation+Engineering;Founder+%40+Spectre+Flow+%7C+CS+Undergrad+Year+2;Security+is+the+obsession.+Automation+is+the+weapon.)](https://git.io/typing-svg)
@@ -24,7 +24,7 @@ $ whoami
 ```
 
 ```
-  user      →  Ayanokouji
+  user      →  Alif Nayem
   role      →  Founder @ Spectre Flow  ·  CS Undergrad (Year 2)
   domain    →  Cybersecurity  ·  AI Infrastructure  ·  Automation
   mindset   →  Security is the obsession. AI is the shift I adapt and deploy.
@@ -53,7 +53,7 @@ $ ls ./spectre_flow
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/spectreflow.ai-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://spectre-flow-website.vercel.app)
+[![Website](https://img.shields.io/badge/spectreflow.ai-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://spectre-flow.vercel.app)
 [![Book a Call](https://img.shields.io/badge/Book_Free_Call-0d1117?style=for-the-badge&logo=googlecalendar&logoColor=00C8FF)](https://cal.com/ayanokouji-j98vjt)
 
 </div>
@@ -167,9 +167,9 @@ $ ./connect.sh
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-alif-hossain-nayem-0353a5358/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alifnayem-spectreflow)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/spectreflow.ai)
-[![Spectre Flow](https://img.shields.io/badge/spectreflow.ai-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://spectre-flow-website.vercel.app)
+[![Spectre Flow](https://img.shields.io/badge/spectreflow.ai-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://spectre-flow.vercel.app)
 [![Book a Call](https://img.shields.io/badge/Book_Free_Call-0d1117?style=for-the-badge&logo=googlecalendar&logoColor=00C8FF)](https://cal.com/ayanokouji-j98vjt)
 
 <br/>
