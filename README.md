@@ -144,11 +144,11 @@ $ git log --author=Darkus39 --stat
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darkus39&show_icons=true&theme=transparent&hide_border=true&title_color=00C8FF&icon_color=00C8FF&text_color=aab8d0&bg_color=050810&rank_icon=github)](https://github.com/Darkus39)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Darkus39&show_icons=true&theme=transparent&hide_border=true&title_color=00C8FF&icon_color=00C8FF&text_color=aab8d0&bg_color=050810&rank_icon=github)](https://github.com/Darkus39)
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding"/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkus39&layout=compact&theme=transparent&hide_border=true&title_color=00C8FF&text_color=aab8d0&bg_color=050810)](https://github.com/Darkus39)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Darkus39&layout=compact&theme=transparent&hide_border=true&title_color=00C8FF&text_color=aab8d0&bg_color=050810)](https://github.com/Darkus39)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Darkus39&theme=react-dark&hide_border=true&color=00C8FF&line=00C8FF&point=00C8FF&area=true&area_color=00C8FF)
 
