@@ -20,7 +20,7 @@
 ---
 
 ```bash
-$ who-am-i
+$ who_am_i
 ```
 
 ```
